@@ -1,0 +1,15 @@
+{
+  "summary": {
+    "title": "ParasPesukone"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "ParasPesukone",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
