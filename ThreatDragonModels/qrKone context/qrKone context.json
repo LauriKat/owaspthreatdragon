@@ -1,0 +1,15 @@
+{
+  "summary": {
+    "title": "qrKone context"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "qrMachineContext",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
