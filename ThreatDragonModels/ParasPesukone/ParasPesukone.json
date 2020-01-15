@@ -1228,6 +1228,11 @@
           "height": 2159.309326171875,
           "width": 11384
         }
+      },
+      {
+        "title": "ContextDiagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 1
       }
     ]
   }
