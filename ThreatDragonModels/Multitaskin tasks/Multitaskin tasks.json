@@ -1,0 +1,15 @@
+{
+  "summary": {
+    "title": "Multitaskin tasks"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Tasks",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
