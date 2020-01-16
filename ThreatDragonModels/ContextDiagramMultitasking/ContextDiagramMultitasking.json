@@ -270,7 +270,7 @@
                   },
                   "attrs": {
                     "text": {
-                      "text": "Input",
+                      "text": "",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -299,8 +299,8 @@
               },
               "vertices": [
                 {
-                  "x": 313,
-                  "y": 261
+                  "x": 344,
+                  "y": 291
                 }
               ],
               "id": "eac79f98-f4ee-4a52-ab37-2c689301f2af",
@@ -309,7 +309,7 @@
                   "position": 0.5,
                   "attrs": {
                     "text": {
-                      "text": "Ouput",
+                      "text": "",
                       "font-weight": "400",
                       "font-size": "small"
                     }
