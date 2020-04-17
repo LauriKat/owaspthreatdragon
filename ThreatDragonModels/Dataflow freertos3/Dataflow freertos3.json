@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "title": "Dataflow freertos3",
+    "owner": "Lauri Katelus"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Dataflow",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
